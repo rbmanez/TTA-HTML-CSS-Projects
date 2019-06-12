@@ -1,0 +1,16 @@
+input[type="text"],
+input[type="email"] {
+    width: 200px;
+    margin: 5px 5px;
+    border: inset;
+    border-radius: 5px;
+}
+
+p {
+    font-family: sans-serif, serif;
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
