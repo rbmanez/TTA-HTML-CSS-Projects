@@ -18,5 +18,3 @@ Bootstrap project of a mock movie theatre
 
 ###### Bottom of the Page
 ![bootstrap project](screenshots/pic2.png)
-
-test
