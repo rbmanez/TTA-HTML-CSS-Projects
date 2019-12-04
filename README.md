@@ -1,6 +1,6 @@
 # TTA HTML and CSS Projects
 
-### Academy Cinemas
+### Academy Cinemas Project
 Bootstrap project of a mock movie theatre.
 
 [Click here to see the code.](https://github.com/rbmanez/TTA-HTML-CSS-Projects/tree/master/academy-cinemas)
